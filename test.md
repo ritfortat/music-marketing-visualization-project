@@ -1,4 +1,4 @@
-| Table |
-| ---- |
-| Contents |
-| More |
+| Table | Contents |
+| ---- | --- |
+| Contents | More |
+| More | Some More |
